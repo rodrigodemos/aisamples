@@ -1,0 +1,6 @@
+ipykernel
+requests
+openai
+azure-cognitiveservices-speech
+PyPDF2
+python-dotenv
