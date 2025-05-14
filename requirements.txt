@@ -1,6 +1,11 @@
+# Podcast sample:
 ipykernel
 requests
 openai
 azure-cognitiveservices-speech
 PyPDF2
 python-dotenv
+
+# Document Intelligence sample:
+azure-ai-documentintelligence
+azure-identity
